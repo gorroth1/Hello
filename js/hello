@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+'use strict'
+
+if ("LOL".length === 90000) {  
+  console.log("Over 9,000000")
+} else {
+ console.log("POTATO")
+}
